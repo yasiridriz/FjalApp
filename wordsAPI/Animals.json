@@ -1,0 +1,482 @@
+{
+    "A": [
+        {
+            "word": "Akrepi"
+        },
+        {
+            "word": "Ariu"
+        },
+        {
+            "word": "Ariu i murrmë"
+        },
+        {
+            "word": "Anakonda"
+        },
+        {
+            "word": "Antilopa"
+        }
+    ],
+    "B": [
+        {
+            "word": "Bretkoca"
+        },
+        {
+            "word": "Breshka"
+        },
+        {
+            "word": "Bukla"
+        },
+        {
+            "word": "Baldosa"
+        },
+        {
+            "word": "Balena"
+        },
+        {
+            "word": "Bilbili"
+        },
+        {
+            "word": "Bizoni"
+        },
+        {
+            "word": "Bleta"
+        },
+        {
+            "word": "Bualli"
+        },
+        {
+            "word": "Buburreci"
+        },
+        {
+            "word": "Bubrreci"
+        }
+    ],
+    "C": [
+        {
+            "word": "Cjapi"
+        }
+    ],
+    "Ç": [
+        {
+            "word": "Çakalli"
+        },
+        {
+            "word": "Çurkaja"
+        }
+    ],
+    "D": [
+        {
+            "word": "Dashi"
+        },
+        {
+            "word": "Delfini"
+        },
+        {
+            "word": "Derri"
+        },
+        {
+            "word": "Dreri"
+        },
+        {
+            "word": "Delja"
+        },
+        {
+            "word": "Deveja"
+        },
+        {
+            "word": "Demi"
+        },
+        {
+            "word": "Dallëndyshja"
+        }
+    ],
+    "Dh": [
+        {
+            "word": "Dhelpra"
+        },
+        {
+            "word": "Dhia"
+        }
+    ],
+    "E": [
+        {
+            "word": "Elefanti"
+        },
+        {
+            "word": "Elefanti i detit"
+        }
+    ],
+    "F": [
+        {
+            "word": "Flamingo"
+        },
+        {
+            "word": "Foka"
+        },
+        {
+            "word": "Flutura"
+        },
+        {
+            "word": "Fazani"
+        }
+    ],
+    "G": [
+        {
+            "word": "Gaforrja"
+        },
+        {
+            "word": "Gomari"
+        },
+        {
+            "word": "Gorilla"
+        },
+        {
+            "word": "Gepardi"
+        },
+        {
+            "word": "Grifsha"
+        },
+        {
+            "word": "Grerëza"
+        }
+    ],
+    "Gj": [
+        {
+            "word": "Gjarpri"
+        },
+        {
+            "word": "Gjeli"
+        },
+        {
+            "word": "Gjirafa"
+        },
+        {
+            "word": "Gjoni"
+        }
+    ],
+    "H": [
+        {
+            "word": "Hiena"
+        },
+        {
+            "word": "Huti"
+        },
+        {
+            "word": "Hipopotami"
+        },
+        {
+            "word": "Harenga"
+        }
+    ],
+    "I": [
+        {
+            "word": "Iriqi"
+        }
+    ],
+    "J": [
+        {
+            "word": "Jaguari"
+        }
+    ],
+    "K": [
+        {
+            "word": "Kali"
+        },
+        {
+            "word": "Kali i nilit"
+        },
+        {
+            "word": "Kaprolli"
+        },
+        {
+            "word": "Karkaleci"
+        },
+        {
+            "word": "Kërmilli"
+        },
+        {
+            "word": "Kau"
+        },
+        {
+            "word": "Ketri"
+        },
+        {
+            "word": "Korbi"
+        },
+        {
+            "word": "Krokodilli"
+        },
+        {
+            "word": "Kumria"
+        },
+        {
+            "word": "Korale"
+        },
+        {
+            "word": "Krapi"
+        },
+        {
+            "word": "Koala"
+        }
+    ],
+    "L": [
+        {
+            "word": "Lakuriqi"
+        },
+        {
+            "word": "Langua"
+        },
+        {
+            "word": "Leopardi"
+        },
+        {
+            "word": "Lepuri"
+        },
+        {
+            "word": "Lopa"
+        },
+        {
+            "word": "Luani"
+        },
+        {
+            "word": "Lejleku"
+        }
+    ],
+    "M": [
+        {
+            "word": "Milingona"
+        },
+        {
+            "word": "Macja"
+        },
+        {
+            "word": "Majmuni"
+        },
+        {
+            "word": "Miu"
+        },
+        {
+            "word": "Mushka"
+        },
+        {
+            "word": "Mamuti"
+        },
+        {
+            "word": "Merimanga"
+        },
+        {
+            "word": "Mustak"
+        },
+        {
+            "word": "Merluci"
+        }
+    ],
+    "N": [
+        {
+            "word": "Ngjala"
+        },
+        {
+            "word": "Nepërka"
+        },
+        {
+            "word": "Nusepashka"
+        }
+    ],
+    "O": [
+        {
+            "word": "Orangutani"
+        },
+        {
+            "word": "Orka"
+        },
+        {
+            "word": "Oktapodi"
+        },
+        {
+            "word": "Oposumi"
+        }
+    ],
+    "P": [
+        {
+            "word": "Pëllumbi"
+        },
+        {
+            "word": "Palloi"
+        },
+        {
+            "word": "Papagalli"
+        },
+        {
+            "word": "Pela"
+        },
+        {
+            "word": "Peshku"
+        },
+        {
+            "word": "Pata"
+        },
+        {
+            "word": "Petriti"
+        },
+        {
+            "word": "Peshkaqeni"
+        },
+        {
+            "word": "Pula"
+        },
+        {
+            "word": "Puma"
+        },
+        {
+            "word": "Pulëbardha"
+        },
+        {
+            "word": "Pilivesa"
+        },
+        {
+            "word": "Pinguini"
+        }
+    ],
+    "Q": [
+        {
+            "word": "Qeni"
+        },
+        {
+            "word": "Qengji"
+        },
+        {
+            "word": "Qelbësi"
+        },
+        {
+            "word": "Qukapiku"
+        },
+        {
+            "word": "Qyqjy"
+        },
+        {
+            "word": "Qyqja"
+        }
+    ],
+    "R": [
+        {
+            "word": "Rinoceronti"
+        },
+        {
+            "word": "Rakuni"
+        },
+        {
+            "word": "Rosa"
+        }
+    ],
+    "Rr": [
+        {
+            "word": "Rrëqebulli"
+        }
+    ],
+    "S": [
+        {
+            "word": "Sokoli"
+        },
+        {
+            "word": "Sorra"
+        },
+        {
+            "word": "Skifteri"
+        },
+        {
+            "word": "Salmoni"
+        },
+        {
+            "word": "Sardele"
+        }
+    ],
+    "Sh": [
+        {
+            "word": "Shqiponja"
+        },
+        {
+            "word": "Shimpanzeja"
+        },
+        {
+            "word": "Shpuza"
+        }
+    ],
+    "T": [
+        {
+            "word": "Tigri"
+        },
+        {
+            "word": "Trofta"
+        },
+        {
+            "word": "Trumcaku"
+        },
+        {
+            "word": "Tarantulla"
+        }
+    ],
+    "Th": [
+        {
+            "word": "Thiu"
+        },
+        {
+            "word": "Thnegla"
+        }
+    ],
+    "U": [
+        {
+            "word": "Ujku"
+        },
+        {
+            "word": "Urithi"
+        }
+    ],
+    "V": [
+        {
+            "word": "Viçi"
+        },
+        {
+            "word": "Vjedulla"
+        }
+    ],
+    "X": [
+        {
+            "word": "Xixëllonja"
+        }
+    ],
+    "Xh": [
+        {
+            "word": "Xhirafa"
+        }
+    ],
+    "Y": [
+        {
+            "word": "Ylli i detit"
+        },
+        {
+            "word": "Ylli"
+        }
+    ],
+    "Z": [
+        {
+            "word": "Zagari"
+        },
+        {
+            "word": "Zebra"
+        },
+        {
+            "word": "Zgjebthi"
+        }
+    ],
+    "Zh": [
+        {
+            "word": "Zhaba"
+        },
+        {
+            "word": "Zhapini"
+        },
+        {
+            "word": "Zhapiku"
+        }
+    ]
+}

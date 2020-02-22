@@ -1,0 +1,612 @@
+{
+    "A": [
+        {
+            "word": "Afganistan"
+        },
+        {
+            "word": "Afrika Jugore"
+        },
+        {
+            "word": "Afrika Qendrore"
+        },
+        {
+            "word": "Algjeria"
+        },
+        {
+            "word": "Andorra"
+        },
+        {
+            "word": "Angola"
+        },
+        {
+            "word": "Antigua dhe Barbuda"
+        },
+        {
+            "word": "Arabia"
+        },
+        {
+            "word": "Arabia Saudite"
+        },
+        {
+            "word": "Argjentina"
+        },
+        {
+            "word": "Armenia"
+        },
+        {
+            "word": "Australia"
+        },
+        {
+            "word": "Austria"
+        },
+        {
+            "word": "Azerbajxhani"
+        }
+    ],
+    "B": [
+        {
+            "word": "Bahamet"
+        },
+        {
+            "word": "Bahrejni"
+        },
+        {
+            "word": "Bangladesh"
+        },
+        {
+            "word": "Barbados"
+        },
+        {
+            "word": "Belgjika"
+        },
+        {
+            "word": "Beliza"
+        },
+        {
+            "word": "Benini"
+        },
+        {
+            "word": "Birmania"
+        },
+        {
+            "word": "Bellorusia"
+        },
+        {
+            "word": "Bolivia"
+        },
+        {
+            "word": "Bosnja"
+        },
+        {
+            "word": "Bosnja dhe Herzegovina"
+        },
+        {
+            "word": "Botsvana"
+        },
+        {
+            "word": "Brazili"
+        },
+        {
+            "word": "Brunei"
+        },
+        {
+            "word": "Bullgaria"
+        },
+        {
+            "word": "Burkina Faso"
+        },
+        {
+            "word": "Burundi"
+        },
+        {
+            "word": "Butani"
+        }
+    ],
+    "Ç": [
+        {
+            "word": "Çadi"
+        },
+        {
+            "word": "Çekia"
+        }
+    ],
+    "D": [
+        {
+            "word": "Danimarka"
+        },
+        {
+            "word": "Dominik"
+        }
+    ],
+    "E": [
+        {
+            "word": "Egjipt"
+        },
+        {
+            "word": "Ekuador"
+        },
+        {
+            "word": "Emiratet e Bashkuara Arabe"
+        },
+        {
+            "word": "Eritrea"
+        },
+        {
+            "word": "Estonia"
+        },
+        {
+            "word": "Etiopia"
+        }
+    ],
+    "F": [
+        {
+            "word": "Filipinet"
+        },
+        {
+            "word": "Finlanda"
+        },
+        {
+            "word": "Fixhi"
+        },
+        {
+            "word": "Franca"
+        }
+    ],
+    "G": [
+        {
+            "word": "Gabon"
+        },
+        {
+            "word": "Gambia"
+        },
+        {
+            "word": "Gana"
+        },
+        {
+            "word": "Grenada"
+        },
+        {
+            "word": "Greqi"
+        },
+        {
+            "word": "Guajana"
+        },
+        {
+            "word": "Guatemala"
+        },
+        {
+            "word": "Guinea"
+        },
+        {
+            "word": "Guinea-Bisau"
+        },
+        {
+            "word": "Guinea Ekuatoriale"
+        }
+    ],
+    "Gj": [
+        {
+            "word": "Gjeorgjia"
+        },
+        {
+            "word": "Gjermania"
+        }
+    ],
+    "H": [
+        {
+            "word": "Haiti"
+        },
+        {
+            "word": "Holanda"
+        },
+        {
+            "word": "Hondurasi"
+        },
+        {
+            "word": "Hungaria"
+        }
+    ],
+    "I": [
+        {
+            "word": "Indonezia"
+        },
+        {
+            "word": "Irak"
+        },
+        {
+            "word": "Iran"
+        },
+        {
+            "word": "Irlanda"
+        },
+        {
+            "word": "Islanda"
+        },
+        {
+            "word": "Italia"
+        },
+        {
+            "word": "Izrael"
+        }
+    ],
+    "J": [
+        {
+            "word": "Japonia"
+        },
+        {
+            "word": "Jordan"
+        }
+    ],
+    "K": [
+        {
+            "word": "Kamboxhia"
+        },
+        {
+            "word": "Kamerun"
+        },
+        {
+            "word": "Kanada"
+        },
+        {
+            "word": "Katar"
+        },
+        {
+            "word": "Kazakistan"
+        },
+        {
+            "word": "Kenia"
+        },
+        {
+            "word": "Kepi i Gjelbër"
+        },
+        {
+            "word": "Kili"
+        },
+        {
+            "word": "Kina"
+        },
+        {
+            "word": "Kirgizistan"
+        },
+        {
+            "word": "Kiribati"
+        },
+        {
+            "word": "Kolumbia"
+        },
+        {
+            "word": "Komoret"
+        },
+        {
+            "word": "Koreja e Veriut"
+        },
+        {
+            "word": "Koreja e Jugut"
+        },
+        {
+            "word": "Kosova"
+        },
+        {
+            "word": "Kosta Rika"
+        },
+        {
+            "word": "Kroacia"
+        },
+        {
+            "word": "Kuba"
+        },
+        {
+            "word": "Kuvajti"
+        }
+    ],
+    "L": [
+        {
+            "word": "Laosi"
+        },
+        {
+            "word": "Lesoto"
+        },
+        {
+            "word": "Letonia"
+        },
+        {
+            "word": "Libani"
+        },
+        {
+            "word": "Liberia"
+        },
+        {
+            "word": "Libia"
+        },
+        {
+            "word": "Lihtenshtajni"
+        },
+        {
+            "word": "Lituania"
+        },
+        {
+            "word": "Luksemburgu"
+        }
+    ],
+    "M": [
+        {
+            "word": "Madagaskari"
+        },
+        {
+            "word": "Malajzia"
+        },
+        {
+            "word": "Malavi"
+        },
+        {
+            "word": "Maldivet"
+        },
+        {
+            "word": "Mali"
+        },
+        {
+            "word": "Malta"
+        },
+        {
+            "word": "Maroku"
+        },
+        {
+            "word": "Mauritania"
+        },
+        {
+            "word": "Mauritius"
+        },
+        {
+            "word": "Meksika"
+        },
+        {
+            "word": "Moldavia"
+        },
+        {
+            "word": "Monako"
+        },
+        {
+            "word": "Mongolia"
+        },
+        {
+            "word": "Mozambik"
+        }
+    ],
+    "N": [
+        {
+            "word": "Namibia"
+        },
+        {
+            "word": "Nauru"
+        },
+        {
+            "word": "Nepal"
+        },
+        {
+            "word": "Niger"
+        },
+        {
+            "word": "Nigeria"
+        },
+        {
+            "word": "Nikaragua"
+        },
+        {
+            "word": "Norvegjia"
+        }
+    ],
+    "O": [
+        {
+            "word": "Oman"
+        }
+    ],
+    "P": [
+        {
+            "word": "Pakistani"
+        },
+        {
+            "word": "Palau"
+        },
+        {
+            "word": "Panama"
+        },
+        {
+            "word": "Papua Guineja e Re"
+        },
+        {
+            "word": "Paraguaj"
+        },
+        {
+            "word": "Peru"
+        },
+        {
+            "word": "Polonia"
+        },
+        {
+            "word": "Portugalia"
+        }
+    ],
+    "Q": [
+        {
+            "word": "Qipro"
+        }
+    ],
+    "R": [
+        {
+            "word": "Ruanda"
+        },
+        {
+            "word": "Rumania"
+        },
+        {
+            "word": "Rusia"
+        }
+    ],
+    "S": [
+        {
+            "word": "Salvador"
+        },
+        {
+            "word": "Samoa"
+        },
+        {
+            "word": "San Marino"
+        },
+        {
+            "word": "Sao Tome dhe Principe"
+        },
+        {
+            "word": "Sejshell"
+        },
+        {
+            "word": "Senegal"
+        },
+        {
+            "word": "Sërbia"
+        },
+        {
+            "word": "Sierra Leone"
+        },
+        {
+            "word": "Singapor"
+        },
+        {
+            "word": "Siria"
+        },
+        {
+            "word": "Sllovakia"
+        },
+        {
+            "word": "Sllovenia"
+        },
+        {
+            "word": "Somalia"
+        },
+        {
+            "word": "Spanja"
+        },
+        {
+            "word": "Sri Lanka"
+        },
+        {
+            "word": "Suazilend"
+        },
+        {
+            "word": "Sudan"
+        },
+        {
+            "word": "Sudan i Jugut"
+        },
+        {
+            "word": "Suedia"
+        },
+        {
+            "word": "Surinam"
+        }
+    ],
+    "Sh": [
+        {
+            "word": "Shën Kits dhe Nevis"
+        },
+        {
+            "word": "Shënn Luçia"
+        },
+        {
+            "word": "Shën Vincenti dhe Grenadinet"
+        },
+        {
+            "word": "Shqipëria"
+        },
+        {
+            "word": "SHBA"
+        },
+        {
+            "word": "Shtetet e Bashkuara të Amerikës"
+        }
+    ],
+    "T": [
+        {
+            "word": "Tailanda"
+        },
+        {
+            "word": "Tanzania"
+        },
+        {
+            "word": "Taxhikistan"
+        },
+        {
+            "word": "Timori Lindor"
+        },
+        {
+            "word": "Togoja"
+        },
+        {
+            "word": "Tonga"
+        },
+        {
+            "word": "Trinidad dhe Tobakoja"
+        },
+        {
+            "word": "Tunizia"
+        },
+        {
+            "word": "Turkmenistani"
+        },
+        {
+            "word": "Turqia"
+        },
+        {
+            "word": "Tuvalu"
+        }
+    ],
+    "U": [
+        {
+            "word": "Uganda"
+        },
+        {
+            "word": "Ukraina"
+        },
+        {
+            "word": "Uruguaj"
+        },
+        {
+            "word": "Uzbekistan"
+        }
+    ],
+    "V": [
+        {
+            "word": "Vanuatu"
+        },
+        {
+            "word": "Vatikan"
+        },
+        {
+            "word": "Venezuela"
+        },
+        {
+            "word": "Vietnam"
+        }
+    ],
+    "Xh": [
+        {
+            "word": "Xhamajka"
+        },
+        {
+            "word": "Xhibuti"
+        }
+    ],
+    "Z": [
+        {
+            "word": "Zambia"
+        },
+        {
+            "word": "Zelanda e Re"
+        },
+        {
+            "word": "Zimbabve"
+        },
+        {
+            "word": "Zvicra"
+        }
+    ]
+}

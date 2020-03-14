@@ -1,50 +1,32 @@
-const express = require('express');
-const app = express();
-const http = require('http').Server(app);
-const path = require('path');
-const io = require('socket.io')(http);
+let express = require('express');
+let bodyparser = require('body-parser');
 
-const uri = "mongodb://127.0.0.1:27017/fjalapp";
-const port = process.env.PORT || 5000;
+let appRouter = require('./app/routes/app.route');
+let authRouter = require('./app/routes/auth.route');
 
-const Message = require('./app/models/message.model');
-const mongoose = require('mongoose');
+let http = require('http');
+let socketIO = require('socket.io');
+let PORT = process.env.PORT || 5000;
+var app = express();
+var server = http.Server(app);
+var io = socketIO(server);
 
-mongoose.connect(uri, {
-  useUnifiedTopology: true,
-  useNewUrlParser: true,
+app.set('port', 5000);
+app.use('/static', express.static(__dirname + '/static'));
+
+// Routing
+app.get('/', appRouter);
+//app.get('/auth', authRouter);
+
+server.listen(PORT, function() {
+  console.log('Starting server on process.env.PORT');
 });
 
-app.use(express.static(path.join(__dirname, '..', 'client', 'build')));
+io.on('connection', function(socket){
 
-io.on('connection', (socket) => {
-
-  // Get the last 10 messages from the database.
-  Message.find().sort({createdAt: -1}).limit(10).exec((err, messages) => {
-    if (err) return console.error(err);
-
-    // Send the last messages to the user.
-    socket.emit('init', messages);
+  socket.on('chat message', function(msg){
+    io.emit('chat message', msg);
   });
 
-  // Listen to connected users for a new message.
-  socket.on('message', (msg) => {
-    // Create a message with the content and the name of the user.
-    const message = new Message({
-      content: msg.content,
-      name: msg.name,
-    });
 
-    // Save the message to the database.
-    message.save((err) => {
-      if (err) return console.error(err);
-    });
-
-    // Notify all other users about a new message.
-    socket.broadcast.emit('push', msg);
-  });
-});
-
-http.listen(port, () => {
-  console.log('listening on *:' + port);
 });
